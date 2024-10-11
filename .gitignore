@@ -1,0 +1,19 @@
+# Compiled binary files
+*.bin
+*.exe
+*.o
+*.a
+
+# Build directories
+/build
+/dist
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
