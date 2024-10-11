@@ -198,7 +198,7 @@ void StartDefaultTask(void *argument)
       msg.data++;
       osDelay(10);
     }
-    /* USER CODE END StartDefaultTask */
+  /* USER CODE END StartDefaultTask */
 }
 
 /* Private application code --------------------------------------------------*/
