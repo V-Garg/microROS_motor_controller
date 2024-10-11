@@ -1,19 +1,24 @@
-# Compiled binary files
-*.bin
-*.exe
-*.o
-*.a
+agent_ws/src/uros/micro_ros_msgs/CMakeLists.txt.user
+agent_ws/src/uros/micro_ros_msgs/CMakeCache.txt
+agent_ws/src/uros/micro_ros_msgs/CMakeFiles
+agent_ws/src/uros/micro_ros_msgs/CMakeScripts
+agent_ws/src/uros/micro_ros_msgs/Testing
+agent_ws/src/uros/micro_ros_msgs/Makefile
+agent_ws/src/uros/micro_ros_msgs/cmake_install.cmake
+agent_ws/src/uros/micro_ros_msgs/install_manifest.txt
+agent_ws/src/uros/micro_ros_msgs/compile_commands.json
+agent_ws/src/uros/micro_ros_msgs/CTestTestfile.cmake
+agent_ws/src/uros/micro_ros_msgs/_deps
 
-# Build directories
-/build
-/dist
-
-# Logs
-*.log
-
-# Environment variables
-.env
-
-# OS generated files
-.DS_Store
-Thumbs.db
+stm32_microros_controller/micro_ros_stm32cubemx_utils/Core
+stm32_microros_controller/micro_ros_stm32cubemx_utils/Drivers
+stm32_microros_controller/micro_ros_stm32cubemx_utils/EWARM
+stm32_microros_controller/micro_ros_stm32cubemx_utils/Middlewares
+stm32_microros_controller/micro_ros_stm32cubemx_utils/.mxproject
+stm32_microros_controller/micro_ros_stm32cubemx_utils/Makefile
+stm32_microros_controller/micro_ros_stm32cubemx_utils/*.s
+stm32_microros_controller/micro_ros_stm32cubemx_utils/*.ld
+stm32_microros_controller/micro_ros_stm32cubemx_utils/build
+stm32_microros_controller/micro_ros_stm32cubemx_utils/.vscode
+stm32_microros_controller/micro_ros_stm32cubemx_utils/libmicroros
+stm32_microros_controller/build
