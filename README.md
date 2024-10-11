@@ -1,1 +1,3 @@
-# stm32_microros_controller
+# Stm32 micro-ROS Controller
+
+This is going to be my code setup for an STM32 NUCLEO-F429ZI board to be used as a motor controller with micro-ROS. My plans are to have the motor controller have the ability to set each motor to a specific angle that I will send to it through a rostopic. I have done the basic setup for micro-ROS to interface with the STM32 microcontroller. I am waiting for the delivery of some components to work on my next steps. As soon as they arrive, I'll update the repository. 

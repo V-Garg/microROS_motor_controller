@@ -9,6 +9,9 @@ agent_ws/src/uros/micro_ros_msgs/install_manifest.txt
 agent_ws/src/uros/micro_ros_msgs/compile_commands.json
 agent_ws/src/uros/micro_ros_msgs/CTestTestfile.cmake
 agent_ws/src/uros/micro_ros_msgs/_deps
+agent_ws/build
+agent_ws/install
+agent_ws/log
 
 stm32_microros_controller/micro_ros_stm32cubemx_utils/Core
 stm32_microros_controller/micro_ros_stm32cubemx_utils/Drivers
